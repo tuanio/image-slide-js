@@ -1,0 +1,19 @@
+.icon {
+	width: 30px;
+	padding: 5px;
+	background-color: cyan;
+}
+#main { 
+	margin: auto;
+	width:80%;
+	padding: 10px;
+	text-align: center;
+}
+img:hover {
+	background-color: lightblue;
+}
+#main-pic {
+	width: 95%;
+	height: auto;
+	border: 1px solid black;
+}
